@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Clamshell Manager</title>
+    <link>https://evenpine.com/clamshell-manager/appcast.xml</link>
+    <description>Updates for Clamshell Manager, a menu bar app for Mac.</description>
+    <language>en</language>
+    <!-- No releases yet. Add one <item> per release, newest first; see appcast/README.md. -->
+  </channel>
+</rss>
