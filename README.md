@@ -18,8 +18,8 @@ Free to use &middot; not open source &middot; macOS 13 Ventura or later &middot;
 
 </div>
 
-> **Status: pre-release.** This repository is the home for Clamshell Manager's downloads and update
-> feed. It is private until the first notarized release. Until then the Releases page is empty.
+> **Latest: [2.0.0](../../releases/latest).** This repository is the home for Clamshell Manager's
+> downloads and release notes. Every release is signed with Developer ID and notarized by Apple.
 
 ## What it does
 
@@ -49,8 +49,7 @@ The menu bar item is always there, and closing the window never quits the app.
 2. Open the disk image and drag **Clamshell Manager** to **Applications**.
 3. Open it. Releases are signed and notarized by Apple before they are published here.
 
-There is no download yet. The first one appears after Apple notarization, and this page and
-[evenpine.com/clamshell-manager](https://evenpine.com/clamshell-manager/) will say so when it does.
+The latest version is **2.0.0**. Each release lists the SHA-256 of its disk image so you can check the download.
 
 Requirements:
 
